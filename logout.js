@@ -1,1 +1,1 @@
-console.log('add feature logout')
+console.log('logout')
